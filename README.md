@@ -1,12 +1,13 @@
 # C and C++ Coursework
 Data Structures, Algorithms and General Use Programming Using C and C++
 
-#C Coursework
+# C Coursework
 
 Contains files that are more general purpose.
 However, Algorithms include the Sieve of Eratosthenes, and Doubly Linked List
+Files are C++ files, but written using C syntax
 
-#C++ Coursework 
+# C++ Coursework 
 
 More Algorithm based than general purpose. 
 Includes use of various C++ features, Object Oriented Programming, Virtual Functions, Abstract Classes and Inheritence 
